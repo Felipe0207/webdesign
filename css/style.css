@@ -1,0 +1,6 @@
+#wrapper{
+    display: block;
+}
+#wrapper ul li{
+list-style: none;
+}
